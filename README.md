@@ -1,3 +1,3 @@
 # Machine_Learning_And_Neural_Network
 
-# This is what i learn in 2022 in the spanning 8 months of the year.
+# This is what i learnt in 2022 during the 8 months of the year.
